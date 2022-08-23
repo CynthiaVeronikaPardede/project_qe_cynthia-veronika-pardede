@@ -6,7 +6,7 @@
 Versioning
 Yaitu yang mengatur versi atau pelacakan perubahan dari source code program. 
 Tujuan untuk mengetahui perubahan:
-  <ol>
+  <ol type="a">
     <li>Supaya dapat ngetrack kira-kira kesalahan dalam proyek apa</li>
     <li>Yang mengubah code siapa</li>
     <li>Yang disubah apa saja</li>
