@@ -19,8 +19,8 @@ Tidak ada proyek yang sempurna.
 Tool yang digunakan untuk melakukan revisi  adalah
 <ol type="A">
   <li>
-    Version Control System (VCS)
-    Single User 🡪 sudah tertracking tetapi di local
+    Version Control System (VCS)<br/>
+    Single User 🡪 sudah tertracking tetapi di local<br/>
     - SCCS – 1972 hanya Unix (hanya di local saja karena internet tidak secepat yang sekarang dan sudah ter tracking) dan 
     - RCS -182 hanya Cross platform dan text
     - Centralized 🡪 sudah ada system terpusat di internet atau di server local sendiri, sifatnya ambil ke pusat
