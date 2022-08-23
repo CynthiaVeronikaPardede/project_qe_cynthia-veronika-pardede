@@ -39,11 +39,11 @@ Note:
 Terdistribusi bukan tersentralisasi, jika ada masalah di server maka file masih ada di local  sehingga tidak akan berpengaruh pada local.
 
 Git Repository (Folder project)
-Disini akan ada 2 file yaitu project yang sudah dikerjakan dan folder .git biasanya terhidden berisi semacam konfigurasi dan pencatatan perubahan di project tersebut. Git akan ngetrack semua perubahan dan kapan berubah dan semuanya. Git dapat melakukan “undo” dengan cara mereset. Setiap perubahan dan ketika mengupdate akan dikirimkan dalam 1 paket/commit. Setiap commit ada pesan dan dikirim ke dalam remote server. Commit semacam riwayat perubahan. 
-    Github, gitlab, dan bitbucket yaitu git server yang menampung repository atau projek di sebuah server.
-    Github ada 2 yaitu
-    a. public => dapat diakses oleh orang lain (bersifat open source)
-    b. private => hanya dapat diakses oleh pembuat maupun oleh kolaborator yang diberikan akses oleh pembuat
+Disini akan ada 2 file yaitu project yang sudah dikerjakan dan folder .git biasanya terhidden berisi semacam konfigurasi dan pencatatan perubahan di project tersebut. Git akan ngetrack semua perubahan dan kapan berubah dan semuanya. Git dapat melakukan “undo” dengan cara mereset. Setiap perubahan dan ketika mengupdate akan dikirimkan dalam 1 paket/commit. Setiap commit ada pesan dan dikirim ke dalam remote server. Commit semacam riwayat perubahan. <br/><br/> 
+Github, gitlab, dan bitbucket yaitu git server yang menampung repository atau projek di sebuah server.
+Github ada 2 yaitu
+a. public => dapat diakses oleh orang lain (bersifat open source)
+b. private => hanya dapat diakses oleh pembuat maupun oleh kolaborator yang diberikan akses oleh pembuat
   </li>
   <li>
     Source Code Manager (SCM)
@@ -51,7 +51,6 @@ Disini akan ada 2 file yaitu project yang sudah dikerjakan dan folder .git biasa
   <li>
     Revision Control System(RCS)
   </li>
-
 </ol>
 
  Perintah Git:
