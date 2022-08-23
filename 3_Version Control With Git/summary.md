@@ -30,10 +30,10 @@ Tool yang digunakan untuk melakukan revisi  adalah
     - Microsoft Team Foundation Server – 2005 <br/>
     - Distributed 🡪 penggabungan dari single user dan centralized (ada server dan local), ada server pusat, mengeditnya di local namun sudah di synchronize ke server. Banyak perintah command. <br/><br/>
     
-    Git – 2005
-    Yaitu salah satu version control system popular yang digunakan para developer untuk mengembangkan software secara bersama-sama.
-    Mercurial – 2005
-    Bazaar - 2005 
+Git – 2005
+Yaitu salah satu version control system popular yang digunakan para developer untuk mengembangkan software secara bersama-sama.
+Mercurial – 2005
+Bazaar - 2005 
 <br/><br/>
 Note:
 Terdistribusi bukan tersentralisasi, jika ada masalah di server maka file masih ada di local  sehingga tidak akan berpengaruh pada local.
