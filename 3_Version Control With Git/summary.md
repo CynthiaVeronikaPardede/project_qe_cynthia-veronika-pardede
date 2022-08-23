@@ -34,7 +34,7 @@ Tool yang digunakan untuk melakukan revisi  adalah
     Mercurial – 2005
     Bazaar - 2005 
 
-    Note:
+    <p>Note:</p>
     Terdistribusi bukan tersentralisasi, jika ada masalah di server maka file masih ada di local  sehingga tidak akan berpengaruh pada local.
 
     Git Repository (Folder project)
