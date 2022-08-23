@@ -21,14 +21,14 @@ Tool yang digunakan untuk melakukan revisi  adalah
   <li>
     Version Control System (VCS)<br/>
     Single User 🡪 sudah tertracking tetapi di local<br/>
-    - SCCS – 1972 hanya Unix (hanya di local saja karena internet tidak secepat yang sekarang dan sudah ter tracking) dan 
-    - RCS -182 hanya Cross platform dan text
-    - Centralized 🡪 sudah ada system terpusat di internet atau di server local sendiri, sifatnya ambil ke pusat
-    - CVS – 1986, File focus
-    - Perforce – 1995
-    - Subversion – 2000, track directory structure
-    - Microsoft Team Foundation Server – 2005 
-    - Distributed 🡪 penggabungan dari single user dan centralized (ada server dan local), ada server pusat, mengeditnya di local namun sudah di synchronize ke server. Banyak perintah command.
+    - SCCS – 1972 hanya Unix (hanya di local saja karena internet tidak secepat yang sekarang dan sudah ter tracking) <br/>
+    - RCS -182 hanya Cross platform dan text <br/>
+    - Centralized 🡪 sudah ada system terpusat di internet atau di server local sendiri, sifatnya ambil ke pusat <br/>
+    - CVS – 1986, File focus <br/>
+    - Perforce – 1995 <br/>
+    - Subversion – 2000, track directory structure <br/>
+    - Microsoft Team Foundation Server – 2005 <br/>
+    - Distributed 🡪 penggabungan dari single user dan centralized (ada server dan local), ada server pusat, mengeditnya di local namun sudah di synchronize ke server. Banyak perintah command. <br/>
     Git – 2005
     Yaitu salah satu version control system popular yang digunakan para developer untuk mengembangkan software secara bersama-sama.
     Mercurial – 2005
