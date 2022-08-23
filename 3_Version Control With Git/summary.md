@@ -63,10 +63,10 @@ Disini akan ada 2 file yaitu project yang sudah dikerjakan dan folder .git biasa
   -git chechout, untuk mengecek kita berada di branch mana
   -git merge, untuk menyatukan branch yang kita buat dengan branch master
   
-  <b>Git Stash</b>
-  Git Stash yaitu penyimpanan sementara didalam folder stash area, sehingga cargo disimpan di sash tersebut dan digunakan stash akan dikembalikan
-  - git stash apply => mengembalikan stash yang digunakan
-  - simbol conflict pada git adalah <<<<<=====>>>>>
+<b>Git Stash</b>
+Git Stash yaitu penyimpanan sementara didalam folder stash area, sehingga cargo disimpan di sash tersebut dan digunakan stash akan dikembalikan
+- git stash apply => mengembalikan stash yang digunakan
+- simbol conflict pada git adalah <<<<<=====>>>>>
 
 Tiga option:
   - accept current change
