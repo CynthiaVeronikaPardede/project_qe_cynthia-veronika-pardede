@@ -1,12 +1,12 @@
 # qe_cynthia-veronika-pardede
 
 W2
-<em>Software Testing as a Career Path<em><br><br>
-###Software Testing <br>
+Software Testing as a Career Path<br><br>
+Software Testing <br>
 yaitu proses verifikasi sistem atau program komputer untuk memutuskan apakah memenuhi persyaratan yang ditentukan dan mengeluarkan hasil yang diinginkan, sebagai hasilnya nanti akan diidentifikasi apakah dalam  suatu produk atau proyek perangkat lunak terdapat “bug”. <br>
 Software Tester dapat dikatakan bagian penting karena menguji produk secara menyeluruh untuk menemukan “cacat” dan memberitahukan kepada developer sampai bug tersebut terselesaikan.<br>
  
-###Skill yang harus dimiliki<br>
+Skill yang harus dimiliki<br>
 Software Tester harus memiliki <br>
 a. Teknikal Skills <br>
 Yang diperlukan:
@@ -23,14 +23,14 @@ Yang diperlukan adalah
 - Great Attitude
 - passion harus memiliki minat dalam software testing, 
 <br>
-###Yang harus dilakukan Software Tester:<br>
+Yang harus dilakukan Software Tester:<br>
 - Memahami Kebutuhan Dokumen untuk pembuatan sebuah sistem atau fitur
 - Membuat Test Case
 - Execute Testing
 - Reporting and re-testing bugs
 - Mengikuti meeting bersama stakeholder yang lain
 <br>
-###Tahapan Karir<br>
+Tahapan Karir<br>
 -Junior  Quality Engineer (Fresher)
 -Quality Engineer (1-2 tahun)
 -Senior Quality Engineer (>3 tahun)
@@ -44,6 +44,6 @@ Bagaimana menjadi Software Tester?<br>
 - Harus mempelajari software testing, testcase management tools serta automation tools.
 - Setelah mempelajari dapat melamar menjadi freelancer untuk pekerjaan tetap. 
 <br><br>
-###Mitos:
+Mitos:
 Software Tester digaji lebih rendah daripada  developer dan developer lebih dihormati daripada Software Tester. (Salah)<br>
 Software Tester dibayar dan diperlakukan setara dengan Software developer. Karier dalam Software Testing tidak boleh dianggap sebagai "peringkat kedua."
