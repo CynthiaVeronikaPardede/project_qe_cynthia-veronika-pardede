@@ -1,8 +1,8 @@
 # qe_cynthia-veronika-pardede
 
-W2
-Software Testing as a Career Path<br><br>
-Software Testing <br>
+##W2
+##Software Testing as a Career Path<br><br>
+##Software Testing <br>
 yaitu proses verifikasi sistem atau program komputer untuk memutuskan apakah memenuhi persyaratan yang ditentukan dan mengeluarkan hasil yang diinginkan, sebagai hasilnya nanti akan diidentifikasi apakah dalam  suatu produk atau proyek perangkat lunak terdapat “bug”. <br>
 Software Tester dapat dikatakan bagian penting karena menguji produk secara menyeluruh untuk menemukan “cacat” dan memberitahukan kepada developer sampai bug tersebut terselesaikan.<br>
  
