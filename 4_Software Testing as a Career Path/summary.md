@@ -41,8 +41,8 @@ Yang harus dilakukan Software Tester:<br>
 >Performance Tester => Penetration Tester => System Analyst => Scrum Master<br><br>
 
 **Bagaimana menjadi Software Tester?**<br>
-    - Harus mempelajari software testing, testcase management tools serta automation tools.
-    - Setelah mempelajari dapat melamar menjadi freelancer untuk pekerjaan tetap. <br><br>
+- Harus mempelajari software testing, testcase management tools serta automation tools.
+- Setelah mempelajari dapat melamar menjadi freelancer untuk pekerjaan tetap. <br><br>
 
 ## Mitos:<br>
 >Software Tester digaji lebih rendah daripada  developer dan developer lebih dihormati daripada Software Tester. (Salah)<br>
