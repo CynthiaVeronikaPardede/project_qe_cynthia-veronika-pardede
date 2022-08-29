@@ -11,15 +11,13 @@ Pada gambar diatas  dapat dilihat pada
 
     Sehingga, dapat disimpulkan bahwa kedua mutation score nya < 100%, sehingga testcase belum cukup  dan diperlukan tambahan  testcase hingga mutant yang not killable menjadi killable dan mutation score nya menjadi 100%.
 <br>    
-    Line coverage adalah mengukur baris/line yang tereksekusi  akan tetapi jumlah mutant yang terbunuh dibandingkan  dengan jumlah total mutant yang dibuat atau dapat dikatakan hanya baris  atau sejumlah baris yang berisi pernyataan yang dapat dieksekusi.
+Line coverage adalah mengukur baris/line yang tereksekusi  akan tetapi jumlah mutant yang terbunuh dibandingkan  dengan jumlah total mutant yang dibuat atau dapat dikatakan hanya baris  atau sejumlah baris yang berisi pernyataan yang dapat dieksekusi.
+<br>
+Pada gambar diatas dapat dilihat bahwa
+- com.hascode.tutorial.entity, line coverage  nya ada 67% atau  6/9 (6 dari 9 baris yang ada telah dilakukan testing)
+- com.hascode.tutorial.service, line coverage  nya ada 100%. Disini sudah menunjukkan 100% (6/6) yang berarti bahwa  seluruh code line yang dituliskan itu telah dilakukan testing <br><br>
+com.hascode.tutorial.entity dan com.hascode.tutorial.service memiliki jumlah kelas yang sama 1. <br><br>
 
-    Pada gambar diatas dapat dilihat bahwa
-    - com.hascode.tutorial.entity, line coverage  nya ada 67% atau  6/9 (6 dari 9 baris yang ada telah dilakukan testing)
-    - com.hascode.tutorial.service, line coverage  nya ada 100%. Disini sudah menunjukkan 100% (6/6) yang berarti bahwa  seluruh code line yang dituliskan itu telah dilakukan testing
-<br><br>
-
-    com.hascode.tutorial.entity dan com.hascode.tutorial.service memiliki jumlah kelas yang sama 1. 
-<br><br>
 2. Tuliskan secara lengkap, simpulan dari gambar berikut! <br><br>
 ![Soal](/5_Software%20Testing%20Fundamental/screenshoot/soal%202.png)<br><br>
 **Jawab:** <br><br>
