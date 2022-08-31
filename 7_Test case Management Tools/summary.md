@@ -14,10 +14,15 @@ Contoh test case management tools:<br> **test rail, test link, zephyr, qtest, pr
 
 ### **How to use Testrail?**<br>
 1. Login ke testrail
-2. Membuat projek baru
-3. Buat milestone
-4. Buat test run
-5. Buat test plan
-6. Buat test case
-7. Jalankan test run pada milestone
-8. Kemudian update status
+2. Buat projek baru <br>Test Project: Your Project Nama -> Test Project<br> Click “Add Project” di sebelah kanan side menu
+3. Isi semua mandatory field atau dapat menyesuaikan dengan opsi
+4. Buat milestone <br> Milestones: Your Sprint Planning Iteration Number<br>Isi semua mandatory field atau dapat menyesuaikan dengan opsi
+5. Buat test run
+6. Buat test plan
+7. Buat test cases
+8. Test Report
+9. Jalankan test run pada milestone
+10. Kemudian update status <br><br>
+
+![Soal](/7_Test%20case%20Management%20Tools/screenshots/summary.png)
+
