@@ -110,39 +110,36 @@ Untuk menampilkan "Hello World!!"
 ![Soal](/10_Linux%20Basic%20Command/screenshots/f.png)<br><br><br>
 
 
-Untuk menampilkan hasil dari
+Untuk menampilkan hasil test dengan inputan nama dengan menprint "Hello 'nama yang diinput'"
 ![Soal](/10_Linux%20Basic%20Command/screenshots/g.png)<br><br>
-![Soal](/10_Linux%20Basic%20Command/screenshots/h.png)<br><br>
+![Soal](/10_Linux%20Basic%20Command/screenshots/h.png)<br><br><br>
 
 
 Untuk menampilkan hasil dari penjumlahan 3+9 <br>Ekspresi numerik juga dapat dihitung dan disimpan dalam variabel 
 ![Soal](/10_Linux%20Basic%20Command/screenshots/i.png)<br><br>
-![Soal](/10_Linux%20Basic%20Command/screenshots/j.png)<br><br>
+![Soal](/10_Linux%20Basic%20Command/screenshots/j.png)<br><br> Untuk menampilkan hasil bagi dari 6/4 dengan scalenya 2, 2 angka dibelakang koma
+![Soal](/10_Linux%20Basic%20Command/screenshots/k.png)<br><br>
+![Soal](/10_Linux%20Basic%20Command/screenshots/l.png)<br><br><br>
+
+
+Untuk menampilkan penjumlahan namun dengan input yang diinput sendiri.
+![Soal](/10_Linux%20Basic%20Command/screenshots/m.png)<br><br>
+![Soal](/10_Linux%20Basic%20Command/screenshots/n.png)<br><br><br>
 
 
 Untuk menampilkan hasil bagi dari 6/4 dengan scalenya 2, 2 angka dibelakang koma
 ![Soal](/10_Linux%20Basic%20Command/screenshots/k.png)<br><br>
-![Soal](/10_Linux%20Basic%20Command/screenshots/l.png)<br><br>
+![Soal](/10_Linux%20Basic%20Command/screenshots/l.png)<br><br><br>
 
 
 Untuk menampilkan penjumlahan namun dengan input yang diinput sendiri.
 ![Soal](/10_Linux%20Basic%20Command/screenshots/m.png)<br><br>
-![Soal](/10_Linux%20Basic%20Command/screenshots/n.png)<br><br>
-
-
-Untuk menampilkan
-![Soal](/10_Linux%20Basic%20Command/screenshots/k.png)<br><br>
-![Soal](/10_Linux%20Basic%20Command/screenshots/l.png)<br><br>
-
-
-Untuk menampilkan penjumlahan namun dengan input yang diinput sendiri.
-![Soal](/10_Linux%20Basic%20Command/screenshots/m.png)<br><br>
-![Soal](/10_Linux%20Basic%20Command/screenshots/n.png)<br><br>
+![Soal](/10_Linux%20Basic%20Command/screenshots/n.png)<br><br><br>
 
 
 Untuk menampilkan loop dengan meloop angka 1 sampai 5. Loop memungkinkan untuk mengeksekusi pernyataan beberapa kali.
 ![Soal](/10_Linux%20Basic%20Command/screenshots/o.png)<br><br>
-![Soal](/10_Linux%20Basic%20Command/screenshots/p.png)<br><br>
+![Soal](/10_Linux%20Basic%20Command/screenshots/p.png)<br><br><br>
 
 
 Untuk menampilkan "Saya belajar" dari sekelompok perintah yang dapat digunakan sebagai single handle. Untuk menjalankan kumpulan perintah ini, panggil fungsi dengan nama yang diberikan.
