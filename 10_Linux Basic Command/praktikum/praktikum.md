@@ -105,8 +105,8 @@ Apabila ingin menambahkan isi dari file task,txt dapat menggunakan “nano task.
 ![Soal](/10_Linux%20Basic%20Command/screenshots/d.png)<br><br><br>
 
 
-Untuk menampilkan "Hello World!!"
-![Soal](/10_Linux%20Basic%20Command/screenshots/e.png)<br><br> Akan ditampilkan apabila dipanggil
+Untuk menampilkan "Hello World!!"<br>
+![Soal](/10_Linux%20Basic%20Command/screenshots/e.png)<br><br> Akan ditampilkan apabila dipanggil<br>
 ![Soal](/10_Linux%20Basic%20Command/screenshots/f.png)<br><br><br>
 
 
