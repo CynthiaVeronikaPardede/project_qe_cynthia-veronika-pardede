@@ -99,7 +99,7 @@ Shell Script adalah sebuah bahasa pemograman yang disusun berdasarkan komen-kome
 **echo** untuk memindahkan beberapa data ke dalam satu file.atau mencetak string yang akan di proses sebagai argumen ke output standar.atau skrip shell untuk menampilkan pesan atau menampilkan hasil dari perintah lain.<br><br>
 ![Soal](/10_Linux%20Basic%20Command/screenshots/a.png)<br>
 Tampilan diatas menunjukkan bahwa bahwa echo yang pertama berbeda dengan echo yang kedua karena echo yang pertama tertimpa oleh echo yang kedua.<br><br>
-![Soal](/10_Linux%20Basic%20Command/screenshots/b.png)<br> Berbeda dengan tampilan diatas, tampilan diatas menunjukkan 2 output yang berbeda untuk dimunculkan dikarenakan syntax pada perintah di command “>>”<br><br><br>
+![Soal](/10_Linux%20Basic%20Command/screenshots/b.png)<br> Berbeda dengan tampilan diatas, tampilan diatas menunjukkan 2 output yang berbeda untuk dimunculkan dikarenakan syntax pada perintah di command “>>”<br><br><br> GNU nano adalah teks editor baris perintah yang mudah digunakan untuk sistem operasi Unix dan Linux.
 Apabila ingin menambahkan isi dari file task,txt dapat menggunakan “nano task.txt”
 ![Soal](/10_Linux%20Basic%20Command/screenshots/c.png)<br><br> Akan memunculkan text editor  di linux seperti tampilan dibawah ini
 ![Soal](/10_Linux%20Basic%20Command/screenshots/d.png)<br><br><br>
@@ -145,3 +145,5 @@ Untuk menampilkan loop dengan meloop angka 1 sampai 5. Loop memungkinkan untuk m
 Untuk menampilkan "Saya belajar" dari sekelompok perintah yang dapat digunakan sebagai single handle. Untuk menjalankan kumpulan perintah ini, panggil fungsi dengan nama yang diberikan.
 ![Soal](/10_Linux%20Basic%20Command/screenshots/r.png)<br><br>
 ![Soal](/10_Linux%20Basic%20Command/screenshots/s.png)<br><br>
+
+cat untuk 
