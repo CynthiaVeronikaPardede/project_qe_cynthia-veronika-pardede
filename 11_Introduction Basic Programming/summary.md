@@ -129,8 +129,7 @@ Perulangan dalam pemrograman dibagi menjadi dua jenis:<br>
                 // blok kode yang akan diulang<br>
             } while (kondisi);<br>
 
-4. Input Output
-![Soal](/11_Introduction%20Basic%20Programming/screenshots/summary.png)<br><br>
+4. Input Output<br>![Soal](/11_Introduction%20Basic%20Programming/screenshots/summary.png)<br><br>
 
 5. Operator<br>
 Terdiri dari: 
