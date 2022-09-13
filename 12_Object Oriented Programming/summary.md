@@ -9,16 +9,45 @@ Alasan menggunakan OOP:<br>
 2. Mempercepat pembuatan aplikasi
 3. Cocok untuk program yang besar/complex karena tidak memungkinkan untuk membuat program secara prosedural dan membuat program sulit untuk di maintenance.<br><br>
 
+Yang termasuk OOP:
+- Object
+- Inheritance
+- Atribute
+- Method
+- Class
+- Encapsulation
+- Abstraction
+- Polymorphism
+
+
 Class bertugas untuk mengumpulkan prosedur, fungsi, variabel dalam suatu tempat. Class merupakan cetakan untuk membuat suatu objek. Class akan merepresentasikan objek yang dibuat. Nama kelas harus disesuaikan dengan objek yang akan dibuat.<br><br>
+
+Objek<br>
+Tahapan object:
+- Declaration
+- Instantiation
+- Initialization
+
+Contoh:
+![Soal](/12_Object%20Oriented%20Programming/screenshots/1.png)<br><br>
+
+Termasuk kedalam objek adalah:
+- Variabel
+- Access Modifier
+
 Atribut merupakan bagian dari sebuah kelas yang masih berhubungan erat dengan class tersebut. Atribut juga dapat disebut sebagai properti atau properties dari sebuah kelas. <br><br>
 Method menjelaskan bagaimana atribut bereaksi. Berupa tingkah laku atau behavior.<br><br>
+
 Inheritance adalah hubungan antara 2 objek atau lebih.karena terdapat sebuah objek utama yang ,mewariskan atribut dan method yang dimiliki kepada objek lain nya maupun sebagian atau keseluruhan. diwariskan menggunakan keyword extance.<br><br>
 Semua yang ada di dalam class (atribut dan method) disebut member. Biasanya akan ada tingkatan akses yang disebut modifier. Hubungan inheritance, semua member di dalam class induk akan bisa diakses oleh class anak (subclass), kecuali member tersebut diberikan modifier private. Modifier tidak hanya bisa diberikan kepada member saja. Tapi juga bisa diberikan kepada interface, enum, dan class itu sendiri.<br>
 
-3 jenis modifier yang digunakan dalam Java: <br>
+4 jenis modifier yang digunakan dalam Java: <br>
 1. public
 2. private 
 3. protected
+4. Default
 
 ![Soal](/12_Object%20Oriented%20Programming/screenshots/summary.png)<br><br>
 
+Contoh:
+![Soal](/12_Object%20Oriented%20Programming/screenshots/2.png)<br><br>
