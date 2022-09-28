@@ -16,7 +16,11 @@ Fundamental API:
 **Test Piramida**<br>
 ![Soal](/19_RESTful%20API%20Testing%20with%20Rest%20Assured/screenshots/1.png)<br><br>
 
-Semakin tinggi level maka semakin sedikit test yang harus dilakukan karena semakin mahal. Setiap level memiliki level yang berbeda.<br><br>
+Semakin tinggi level maka semakin sedikit test yang harus dilakukan karena semakin mahal.
+
+Pada level terendah akan mudah maintenance karena scala kecil.
+
+Setiap level berbeda level yang berbeda tingkatan .<br><br>
 
 
 
