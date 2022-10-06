@@ -49,14 +49,14 @@ Endpoint yang akan ditest :<br>
 
 
 **Type**<br>
-![Soal](/22_Fundamental%20Performance%20Test/screenshots/summary.png<br><br>
+![Soal](/22_Fundamental%20Performance%20Test/screenshots/summary.png)<br><br>
 1. Smoke Testing<br>
 Testing yang pertama kali dilakukan setelah software di bangun. Fungsinya untuk memastikan fungsi penting berhasil dibangun. Dilakukan untuk verify script yang sudah dibuat, apakah sistem dapat handle minimal load, tanpa masalah sama sekali. Biasanya hanya 1-2 VUs.
 2. Load Testing
 Load Testing adalah pengujian yang paling sederhana yang dilakukan untuk memahami perilaku sistem dalam keadaan beban tertentu. Hasil dari load test digunakan untuk mengukur kepentingan bisnis saat transaksi yang kritis dengan memonitor dampak terhadap database, application server atau pendukung lainnya. Sederhananya load testing menentukan kelakuan sistem pada saat kondisi normal dan puncak. Idealnya, kita mengetahui jumlah traffic yang ada di prod sebagai nilai di load test.<br>
 **Bagaimana jika sistem belum pernah masuk ke production dan tidak diketahui idealnya?**<br>
 Menggunakan **Tabel Tier8** => dijadikan patokan ideal suatu sistem baru yang belum pernah masuk ke production<br>
-![Soal](/22_Fundamental%20Performance%20Test/screenshots/tabel.png
+![Soal](/22_Fundamental%20Performance%20Test/screenshots/tabel.png)
 3. Stress Testing<br>
 Metode ini untuk dilakukan untuk mengamati kemampuan dan kestabilan sistem pada saat kondisi ekstrem. Dilakukan bertahap menuju load normal, puncak, dan melebihinya, lalu turun untuk melihat proses recovery. Tools: JMeter
 4. Spike Testing<br>
@@ -67,6 +67,6 @@ Untuk mengetahui reliability ketika dalam tekanan di bawah puncak dalam jangka p
 <br><br>
 
 **Istilah penting!!**
-![Soal](/22_Fundamental%20Performance%20Test/screenshots/istilah.png<br><br>
+![Soal](/22_Fundamental%20Performance%20Test/screenshots/istilah.png)<br><br>
 
 
