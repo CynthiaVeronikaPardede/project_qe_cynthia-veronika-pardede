@@ -1,0 +1,37 @@
+line 4 column 1 - Warning: <meta> lacks "content" attribute
+line 7 column 1 - Warning: <script> lacks "type" attribute
+line 14 column 1 - Warning: <style> lacks "type" attribute
+line 17 column 1 - Warning: <style> lacks "type" attribute
+line 24 column 1 - Warning: unknown attribute "srcset"
+line 29 column 2 - Warning: unknown attribute "data-jsl10n"
+line 32 column 1 - Warning: unknown attribute "data-el-section"
+line 35 column 1 - Warning: unknown attribute "data-slogan"
+line 37 column 8 - Error: <bdi> is not recognized!
+line 37 column 8 - Warning: discarding unexpected <bdi>
+line 37 column 43 - Warning: discarding unexpected </bdi>
+line 42 column 1 - Warning: unknown attribute "data-slogan"
+line 44 column 8 - Error: <bdi> is not recognized!
+line 44 column 8 - Warning: discarding unexpected <bdi>
+line 44 column 43 - Warning: discarding unexpected </bdi>
+line 49 column 1 - Warning: unknown attribute "data-slogan"
+line 51 column 8 - Error: <bdi> is not recognized!
+line 51 column 8 - Warning: discarding unexpected <bdi>
+line 51 column 43 - Warning: discarding unexpected </bdi>
+line 56 column 1 - Warning: unknown attribute "data-slogan"
+line 58 column 8 - Error: <bdi> is not recognized!
+line 58 column 8 - Warning: discarding unexpected <bdi>
+line 58 column 43 - Warning: discarding unexpected </bdi>
+line 63 column 1 - Warning: unknown attribute "data-slogan"
+line 65 column 8 - Error: <bdi> is not recognized!
+line 65 column 8 - Warning: discarding unexpected <bdi>
+line 65 column 43 - Warning: discarding unexpected </bdi>
+line 70 column 1 - Warning: unknown attribute "data-slogan"
+line 72 column 8 - Error: <bdi> is not recognized!
+line 72 column 8 - Warning: discarding unexpected <bdi>
+line 72 column 43 - Warning: discarding unexpected </bdi>
+line 77 column 1 - Warning: unknown attribute "data-slogan"
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+217 warnings, 37 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
