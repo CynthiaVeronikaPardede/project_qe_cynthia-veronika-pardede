@@ -13,8 +13,8 @@ JSON Path digunakan untuk ekstrak isi dari json response. Beberapa ekspresi yang
 
 Pada “Match No. {0 for random}” apabila membuat 1 maka akan dicetak 1 buah saja sedangkan apabila ingin mencetak semuanya maka dibuat -1 karena JMeter akan menganggapnya sebagai random. <br><br>
 Apabila ingin mengambil data yang lain maka akan dilakukan(akan mendapatkan ID dan email dari keseluruhan JSON):<br>
->Name of created variables: ID, EMAIL
-JSON Path expression: $..data.id;$..data.email
-Match No. {0 for random}: -1;-1
-Default Value: Notfound;notfound
+>Name of created variables: ID, EMAIL<br>
+JSON Path expression: dolar..data.id;dolar..data.email<br>
+Match No. {0 for random}: -1;-1<br>
+Default Value: Notfound;notfound<br>
 
