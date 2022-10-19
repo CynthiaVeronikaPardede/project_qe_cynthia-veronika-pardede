@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Login</name>
+   <name>Add new product</name>
    <tag></tag>
-   <elementGuidId>2da9756c-2e91-4164-a041-bafeff6bc642</elementGuidId>
+   <elementGuidId>abeb3ba7-16c8-47b0-88b9-461690ac9870</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n                username: \&quot;mor_2314\&quot;,\n                password: \&quot;83r5^_\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{\n                    title: \u0027test product\u0027,\n                    price: 13.5,\n                    description: \u0027lorem ipsum set\u0027,\n                    image: \u0027https://i.pravatar.cc\u0027,\n                    category: \u0027electronic\u0027\n               }&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
@@ -21,13 +21,13 @@
       <name>Content-Type</name>
       <type>Main</type>
       <value>application/json</value>
-      <webElementGuid>9d316805-dc39-47ef-b5ab-96a4d53ab64a</webElementGuid>
+      <webElementGuid>e43e3312-9f2b-4149-86bf-b8e5449bacd2</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.4.1</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>https://fakestoreapi.com/auth/login</restUrl>
+   <restUrl>https://fakestoreapi.com/products</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
