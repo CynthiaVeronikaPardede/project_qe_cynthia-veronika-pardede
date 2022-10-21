@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Login</name>
+   <name>Update a product</name>
    <tag></tag>
-   <elementGuidId>2da9756c-2e91-4164-a041-bafeff6bc642</elementGuidId>
+   <elementGuidId>c24cfb2d-0592-4032-b549-d2dbdac21e06</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;username\&quot;: \&quot;mor_2314\&quot;,\n  \&quot;password\&quot;: \&quot;83r5^_\&quot;\n}&quot;,
-  &quot;contentType&quot;: &quot;application/json&quot;,
+  &quot;text&quot;: &quot;{\n                    userId:3,\n                    date:2019-12-10,\n                    products:[{productId:1,quantity:3}]\n                }&quot;,
+  &quot;contentType&quot;: &quot;text/plain&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
    <httpBodyType>text</httpBodyType>
@@ -20,14 +20,14 @@
       <matchCondition>equals</matchCondition>
       <name>Content-Type</name>
       <type>Main</type>
-      <value>application/json</value>
-      <webElementGuid>9d316805-dc39-47ef-b5ab-96a4d53ab64a</webElementGuid>
+      <value>text/plain</value>
+      <webElementGuid>15d495ee-a868-44f8-849e-316c8d733074</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.4.1</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
-   <restRequestMethod>POST</restRequestMethod>
-   <restUrl>https://fakestoreapi.com/auth/login</restUrl>
+   <restRequestMethod>PUT</restRequestMethod>
+   <restUrl>https://fakestoreapi.com/carts/7</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

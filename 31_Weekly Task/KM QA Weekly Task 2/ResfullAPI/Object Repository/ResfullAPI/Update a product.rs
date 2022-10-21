@@ -10,7 +10,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n                    title: \u0027test product\u0027,\n                    price: 13.5,\n                    description: \u0027lorem ipsum set\u0027,\n                    image: \u0027https://i.pravatar.cc\u0027,\n                    category: \u0027electronic\u0027\n                }&quot;,
+  &quot;text&quot;: &quot;{\n                    \&quot;title\&quot;: \u0027test product\u0027,\n                    \&quot;price\&quot;: 13.5,\n                    \&quot;description\&quot;: \u0027lorem ipsum set\u0027,\n                    \&quot;image\&quot;: \u0027https://i.pravatar.cc\u0027,\n                    \&quot;category\&quot;: \u0027electronic\u0027\n                }&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>

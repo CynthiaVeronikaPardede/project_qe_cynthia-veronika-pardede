@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Login</name>
+   <name>Add a new product</name>
    <tag></tag>
-   <elementGuidId>2da9756c-2e91-4164-a041-bafeff6bc642</elementGuidId>
+   <elementGuidId>acfeac72-b817-4014-b904-8b58a40b3797</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <connectionTimeout>-1</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;username\&quot;: \&quot;mor_2314\&quot;,\n  \&quot;password\&quot;: \&quot;83r5^_\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{\n                    userId:5,\n                    date:2020-02-03,\n                    products:[{productId:5,quantity:1},{productId:1,quantity:5}]\n                }&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
@@ -21,13 +21,13 @@
       <name>Content-Type</name>
       <type>Main</type>
       <value>application/json</value>
-      <webElementGuid>9d316805-dc39-47ef-b5ab-96a4d53ab64a</webElementGuid>
+      <webElementGuid>c5b89a2a-ba3d-459f-9381-95244c4f2b4d</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.4.1</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>https://fakestoreapi.com/auth/login</restUrl>
+   <restUrl>https://fakestoreapi.com/carts</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
