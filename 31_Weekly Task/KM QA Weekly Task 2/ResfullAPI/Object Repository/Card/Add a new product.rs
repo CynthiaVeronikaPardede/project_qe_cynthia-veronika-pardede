@@ -10,7 +10,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n                    userId:5,\n                    date:2020-02-03,\n                    products:[{productId:5,quantity:1},{productId:1,quantity:5}]\n                }&quot;,
+  &quot;text&quot;: &quot;{\n  userId:5,\n  date:2020-02-03,\n  products:[{productId:5,quantity:1},{productId:1,quantity:5}]\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>

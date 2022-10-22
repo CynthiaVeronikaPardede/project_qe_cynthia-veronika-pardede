@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bhinneka would like to send you notific_8cbb4a</name>
+   <tag></tag>
+   <elementGuidId>483c49a5-e3e6-4edc-8363-fdd4e1477698</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='onesignal-slidedown-container']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#onesignal-slidedown-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a32b2ce8-f4c4-4293-b8e6-5f11c2b528cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onesignal-slidedown-container</value>
+      <webElementGuid>1467a2b1-672a-45cb-a589-3a446cfd2e3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>onesignal-slidedown-container onesignal-reset slide-down</value>
+      <webElementGuid>2bac1e70-9ad9-4548-9182-dfb31039dea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bhinneka would like to send you notifications about the latest update.AllowBlock</value>
+      <webElementGuid>6a77908c-15e0-4f4b-90cf-09d8046c5faf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onesignal-slidedown-container&quot;)</value>
+      <webElementGuid>b4c9cc98-d783-4c21-a163-ebbd4fe43f42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='onesignal-slidedown-container']</value>
+      <webElementGuid>36c54144-90ad-4fe7-a4f7-cbc6f014081c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'onesignal-slidedown-container', '&quot;', ')')])[1]/following::div[1]</value>
+      <webElementGuid>a82166d6-8400-4f33-8545-8fa810cf3952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[1]/following::div[3]</value>
+      <webElementGuid>ca676947-d396-47f9-b1a8-7aec8fa81663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>eeef585c-66be-4a26-8164-641e17ccb041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'onesignal-slidedown-container' and (text() = 'Bhinneka would like to send you notifications about the latest update.AllowBlock' or . = 'Bhinneka would like to send you notifications about the latest update.AllowBlock')]</value>
+      <webElementGuid>1fe04453-6eb1-4765-9d48-cee3934de1c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
