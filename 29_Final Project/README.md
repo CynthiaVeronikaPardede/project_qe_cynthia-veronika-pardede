@@ -13,8 +13,8 @@ https://docs.google.com/document/d/11M98aI2r7Wzf2VJMqfIpHITTkXQfotVR/edit?usp=sh
 Berikut link dokumen Tescase<br>
 https://docs.google.com/spreadsheets/d/1e375jdK0hckNsnVdmtMD9pvdofh-tI-Hz6camR2c_nE/edit?usp=share_link<br><br>
 
-Berikut link dokumen Matrix:
-https://docs.google.com/spreadsheets/d/1e375jdK0hckNsnVdmtMD9pvdofh-tI-Hz6camR2c_nE/edit?usp=share_link<br><br>
+Berikut link dokumen Matrix:<br>
+https://docs.google.com/spreadsheets/d/1rnD7Wv9aiDjxg8vDl1kFdc0MXsk9AGQl/edit#gid=1944363258<br><br>
 
-Berikut link dokumen bug report:
+Berikut link dokumen bug report:<br>
 https://docs.google.com/document/d/1MIfBcBNFoWnh0hCnC2NaVwId6wIdnF3D/edit?usp=share_link&ouid=108540331442988494437&rtpof=true&sd=true
