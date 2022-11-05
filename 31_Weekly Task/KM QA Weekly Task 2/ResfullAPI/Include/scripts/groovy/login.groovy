@@ -48,19 +48,19 @@ class login {
 	 * The step definitions below match with Katalon sample Gherkin steps
 	 */
 	@Given("I set GET api endpoints")
-    public void setGetApiEndpoints() {
-        get.setApiEndpoint();
-    }
-    @When("I send GET HTTP request")
-    public void sendGetHttpRequest() {
-        get.sendGetHttpRequest();
-    }
-    @Then("I receive valid HTTP response code 200")
-    public void receiveValidHttpResponse() {
-        get.receiveValidHttpResponseCode200();
-    }
-    @And("I receive valid data for detail user")
-    public void receiveValidDataForDetailUser() {
-        get.validDataDetailUser();
-    }
+	public void setGetApiEndpoints() {
+		get.setApiEndpoint();
+	}
+	@When("I send GET HTTP request")
+	public void sendGetHttpRequest() {
+		get.sendGetHttpRequest();
+	}
+	@Then("I receive valid HTTP response code 200")
+	public void receiveValidHttpResponse() {
+		get.receiveValidHttpResponseCode200();
+	}
+	@And("I receive valid data for detail user")
+	public void receiveValidDataForDetailUser() {
+		get.validDataDetailUser();
+	}
 }
